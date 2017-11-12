@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Zain Imran</title>
+    <link>http://www.zainimran.com/blog/</link>
+    <description>Recent content in Blog on Zain Imran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.zainimran.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gender Imbalance in Tech</title>
+      <link>http://www.zainimran.com/blog/gender-imbalance-in-tech/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.zainimran.com/blog/gender-imbalance-in-tech/</guid>
+      <description>As a student of Computer Science who his aware of his male privileges, I am deeply saddened over the sidelining of women in Computer Science industry and academia. This exclusivity starts at an early stage in a woman’s life, when she is conditioned to take more interest in socially acceptable ‘girlish’ stuff instead of encouraging her curiosity about computers and electronics. If a girl does venture into such interests by mistake, she is quickly reprimanded and reminded of her stereotypical role in society.</description>
+    </item>
+    
+  </channel>
+</rss>
