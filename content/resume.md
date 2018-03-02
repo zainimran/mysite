@@ -3,6 +3,15 @@ date = "2015-08-22"
 title = "Resume"
 +++
 
+### Jump To:
+
+[Experience](#experience) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Projects](#projects) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Education](#education) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Skills](#skills) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Extracurriculars](#ecs)
+
+
 ### Profile {#profile}
 
 Experienced cultural representative. Strong operations professional with a BS focused in Computer Science from LUMS. A perfectionist who outputs incredible results for any task and responsibility he undertakes.
@@ -35,7 +44,7 @@ January 2017 - May 2017
 
 * Did teaching assistantship for two classes: CS 100- Computational Problem Solving- & CS 220- Digital Logic Circuits
 
-#### Cultural Ambassador, Global UGRAD 
+#### Cultural Ambassador, Global UGRAD
 
 August 2016 - December 2016
 
@@ -78,15 +87,15 @@ June 2015 - July 2015
 ### Education {#education}
 
 #### Lahore University of Management Sciences
-*September 2014 - May 2018* 
+*September 2014 - May 2018*
 
 BS in Computer Science
 
-*Achievement(s): Dean's Honor List 2014 & 2015* 
+*Achievement(s): Dean's Honor List 2014 & 2015*
 
 
 #### Dickinson State University
-*August 2016 - December 2016* 
+*August 2016 - December 2016*
 
 Exchange Semester
 
