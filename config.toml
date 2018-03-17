@@ -8,6 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "Zain Imran"
 title = "Zain Imran"
+googleAnalytics = "UA-115861944-1"
 disqusshortname = ""
 pluralizelisttitles = false
 

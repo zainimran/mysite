@@ -192,7 +192,7 @@ Data Science:
 * Completed Social Entrepreneurship Workshop by USEFP and IREX
 * Global Table Ambassador- Dickinson State University, North Dakota
 * LUMS Swim Team 2015-2016
-* Director: LUMS Media Arts Society, LUMS International Film Festival, TechWars
+* Director: LUMS Media Arts Society, LUMS International Film Festival, PsiFi
 * Assistant Director: SPADES, LUMS Environmental Action Forum, LUMS Gaming Association
 * Top 20 Young Physicists in NPTC held by Higher Education Commission Pakistan
 * President Science and Environment Society in high school
