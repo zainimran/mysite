@@ -15,7 +15,7 @@ title = "Resume"
 
 ### Profile {#profile}
 
-Experienced developer having experience working on leading-edge technologies with a knack for learning new frameworks.
+Skilled developer having experience working on leading-edge technologies with a knack for learning new frameworks.
 
 ------
 
@@ -164,7 +164,7 @@ Data Science:
 
 *Present*
 
-* A grassroots movement to impart modern digital literacy skills to the young, high school going women in Pakistan to reduce gender disparity in technology and provide greater women empowerment.
+* A grassroots movement to impart modern digital literacy and coding skills to the young, high school going women in Pakistan to reduce gender disparity in technology and provide greater women empowerment.
 
 ##### Certified Smile Maker, Project Smile
 
