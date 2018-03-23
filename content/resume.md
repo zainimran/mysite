@@ -15,7 +15,7 @@ title = "Resume"
 
 ### Profile {#profile}
 
-An experienced developer who has skills in leading-edge web technologies with a knack for learning new frameworks.
+An experienced developer who has skills in leading-edge web technologies and a knack for learning new frameworks.
 
 ------
 
