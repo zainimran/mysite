@@ -15,7 +15,7 @@ title = "Resume"
 
 ### Profile {#profile}
 
-Experienced developer having a 3 years experience working on leading-edge technologies with a knack for learning new frameworks.
+Experienced developer having experience working on leading-edge technologies with a knack for learning new frameworks.
 
 ------
 
