@@ -3,84 +3,78 @@ date = "2015-08-22"
 title = "Resume"
 +++
 
-### Jump To:
+# Jump To
 
 [Experience](#experience) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Projects](#projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Education](#education) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Skills](#skills) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Volunteering](#volunteers) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Extracurriculars](#ecs)
+<!-- [Volunteering](#volunteers) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+[Honors & Awards](#honors)
 
-
-### Profile {#profile}
+## Profile {#profile}
 
 An experienced developer who has skills in leading-edge web technologies and a knack for learning new frameworks.
 
 ------
 
-### Experience {#experience}
+## Experience {#experience}
 
-#### Software Engineer, Educative
+### Software Engineer, Educative (TechStars Seattle Class of 2018)
 
-*Present*
+Present
 
-* Designing and developing backend, front-end, websites and mobile apps using technologies like Python, JavaScript, React, Redux, Google Cloud, etc.
-* Creating test plans and authoring test cases.
+* Developed features for an **interactive learning platform** for software developers using **Python, JavaScript, React, Redux and Google Cloud**. Wrote test cases **to ensure an optimum working** of the backend after every feature implementation. Implementing the features **drove up user retention and new user growth** on the platform.
 
-#### Cultural Ambassador, Global UGRAD
+<!-- #### Cultural Ambassador of Pakistan to the US, U.S. Department of State
 
-*Fall 2016*
+*2016*
 
-* Representing Pakistan at a U.S. college campus as cultural ambassador.
-* Promoting dialogue between American & Pakistani youth
-and resolving misunderstandings on both sides.
+* Represented Pakistan as a cultural ambassador in the U.S. by **organizing** talks, food fairs and table discussions **to initiate and promote dialogue** between American and Pakistani youth and communities and **to resolve misunderstandings**. American college students and community members I had contact with said their **perceptions about Pakistan and its people have changed** for good. -->
 
-#### Software Engineer Intern, Edjunction
+### Software Engineering Intern, EdJunction
 
-*Summer 2016*
+Summer 15 & 16
 
-* Successfully ported the mobile app to a browser-based portal using NodeJS framework.
-* Upgraded the UI of the portal to give it a modern look using the AngularJS Material framework.
+* Ported EdJunction’s PhoneGap mobile app to a NodeJS web application which is **used by schools** as a monitoring portal for students’ progress. Gave a **visual uplift** to the interface of the web application by **implementing** the popular Angular Material library and added **interactive gestures** to the app by applying methods from the jQuery library.
 
-#### Intern Web & App Development, SMAC Factory
+------
 
-*Summer 2015*
+## Projects {#projects}
 
-* Working on the UI and UX of the mySMACED, a service for digitally connected schools. Introduced much needed modern touch-based interaction gesture in the app.
+[Click here for my Portfolio](https://www.dropbox.com/sh/qd6aojm90b45fpp/AABXShUUFqInh7PxwYaVvTuBa?dl=0)
 
--------
+### Social Search – Senior Year Project
 
-### Projects {#projects}
+2017-18
 
-#### Femme
+* **Analyzed data** collected from Facebook Graph API and Twitter Search API by importing to Tableau. **Developed a tool** by integrating the APIs and replicating the Tableau model into a WebApp using D3JS and ReactJS. Current visualization tools such as Tableau have high licensing costs and our alternative is a **web-based, low-cost tool** specifically built for social media data.
 
-*Fall 2017*
+### Femme – Human Computer Interface Project
 
-* Designed the UI on proto.io for an exclusive women-centric social platform to help Pakistani women fight isolation and domestic abuse.
-* Conducted user testing of the app with the target audience.
+2017
 
-#### Privacy Policy Project
+* **Designed UX and UI** on Proto.io for a women-centered social platform providing a support network to help fight against domestic abuse and involuntary isolation. Tested the design with the target audience (housewives and working women) and **most of them welcomed the idea**.
 
-*Summer 2017*
+### Privacy Policy Project –Summer Research Project
 
-* Developing a chrome browser extension that would scrape and parse privacy policies and terms of service from webpages and condense and summarize them in simple English to make them easier to read and understand.
+2017
 
-#### FasTOR: A Low Latency Tor Client
+* Worked towards developing a tool for **summarizing privacy policies** from webpages of online services to make the policies **easier to read and understand**.
 
-*Spring 2017*
+### FASTor – Topics in Internet Research Project
 
-* Creating a low latency client for interactive traffic that maintains user’s privacy and anonymity.
+2017
 
-#### NOTICEboard
+* Attempted to create a **low latency client** that maintains **user’s privacy and anonymity**.
 
-*Spring 2017*
+### NOTICEboard – Software Engineering Project
 
-* Digital replacement for the physical noticeboards found around campuses. Built on the MEAN stack.
+2017
 
--------
+* **Developed a complete Web Application** incorporating feeds for Events, Lost & Found and Book Exchange as a replacement for campus noticeboards using the MEAN stack.
 
-#### Website for LUMS Media Arts Society
+<!-- #### Website for LUMS Media Arts Society
 
 *Summer 2016*
 
@@ -91,36 +85,33 @@ and resolving misunderstandings on both sides.
 *Fall 2015*
 
 * Designed, developed, launched and managed the official website for the annual film festival.
-* Established a system for receiving and processing participants’ registration and film submissions on the cloud.
+* Established a system for receiving and processing participants’ registration and film submissions on the cloud. -->
 
--------
+------
 
-### Education {#education}
+## Education {#education}
 
-#### Lahore University of Management Sciences
-*September 2014 - May 2018*
+### Lahore University of Management Sciences
 
-* BS in Computer Science- CGPA: 3.75
+BS in Computer Science
 
-* Teaching Assistant: Computational Problem Solving, Intro to Programming, Digital Logic Circuits
+2014-18
 
-* Senior Project: “Developing a Social Media Analysis Tool Based on Public Data Scrapped from Social Networks”
+**Courses**: Software Engineering, Human Computer Interaction, Operating Systems, Databases, Advanced Programming, Network Centric Computing, Artificial Intelligence, Introduction to Information Technology, Game Theory, Principles of Management, Marketing, Network Security, Topics in Internet Research, Probability, Statistics and Data Analysis
 
-* Achievement(s): Dean's Honor List 2014 & 2015
+### Dickinson State University, North Dakota, U.S.
 
+Exchange Semester
 
-#### Dickinson State University
-*August 2016 - December 2016*
+2016
 
-* Exchange Semester- US
+**Courses**: Computer Networks, Computer Organization, Piano, Fundamentals of Public Speaking, American Government
 
-* Achievement(s): Global Table Ambassador
+------
 
--------
+## Skills {#skills}
 
-### Skills {#skills}
-
-Web Development:
+### Web Development
 
 * HTML + CSS
 
@@ -132,7 +123,7 @@ Web Development:
 
 * Google App Engine
 
-Software Engineering:
+### Software Engineering
 
 * Git
 
@@ -142,13 +133,13 @@ Software Engineering:
 
 * Postman
 
-UI/UX Design:
+### UI/UX Design
 
-* Proto.IO
+* Proto.io
 
 * Marvel App
 
-Data Science:
+### Data Science
 
 * MATLAB
 
@@ -156,9 +147,9 @@ Data Science:
 
 * D3.js
 
--------
+------
 
-### Volunteering {#volunteers}
+<!-- ### Volunteering {#volunteers}
 
 #### Founder, Girls Without Barriers
 
@@ -184,15 +175,22 @@ Data Science:
 
 *Spring 2013*
 
--------
+------- -->
 
-### Extracurriculars {#ecs}
+## Honors & Awards {#honors}
 
-* Runner-up in Facebook Bug Bash organized by Bramerz (Pvt.) Ltd.
-* Completed Social Entrepreneurship Workshop by USEFP and IREX
-* Global Table Ambassador- Dickinson State University, North Dakota
-* LUMS Swim Team 2015-2016
-* Director: LUMS Media Arts Society, LUMS International Film Festival, PsiFi
-* Assistant Director: SPADES, LUMS Environmental Action Forum, LUMS Gaming Association
-* Top 20 Young Physicists in NPTC held by Higher Education Commission Pakistan
-* President Science and Environment Society in high school
+* Dean’s Honor List for 6 semesters to date (2014-18)
+
+* Runners Up L'Oréal Brandstorm 2018 National Finals (2018)
+
+* Batch Topper A-Levels Lahore Grammar School Johar Town (2012-14)
+
+* Gold Medalist O-Levels Beaconhouse Garden Town Campus (2009-12)
+
+* Top 20 Young Physicists Higher Education Commission Pakistan (2013-14)
+
+* Global Table Ambassador Dickinson State University (2016)
+
+* Recipient Alumni Small Grants Global UGRAD (2017-2018)
+
+* Runners Up Facebook Bug Bash Bramerz (2017)

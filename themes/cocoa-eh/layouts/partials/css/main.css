@@ -143,6 +143,7 @@ section.header .content {
 section.header .container .logo {
   max-width: 100px;
   margin-left: -2em;
+  padding-right: 1em;
 }
 section.header .name {
   padding-top: 20px;
@@ -678,7 +679,7 @@ section.main .content .share a {
 
 /* Fonts */
 
-.wf-raleway-n4-active body, 
+.wf-raleway-n4-active body,
 .wf-raleway-n4-active section.header nav ul li,
 .wf-raleway-n7-active section.main .content .page-heading,
 .wf-raleway-n2-active section.main .container.f04 .content .num,
