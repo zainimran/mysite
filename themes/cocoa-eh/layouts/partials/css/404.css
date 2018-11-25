@@ -1,6 +1,7 @@
 .logo {
     vertical-align: middle;
     max-width: 300px;
+    border-radius: 100%;
 }
 .content {
     margin: 3em auto;

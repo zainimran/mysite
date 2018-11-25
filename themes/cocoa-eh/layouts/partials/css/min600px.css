@@ -28,6 +28,8 @@ margin: 0;
 section.header-home .container .logo {
 max-width: 180px;
 margin-left: 20px;
+margin-right: 20px;
+border-radius: 100%;
 }
 section.header-home .name-home {
 padding-top: 30px;

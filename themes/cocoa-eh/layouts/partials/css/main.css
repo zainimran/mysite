@@ -142,8 +142,8 @@ section.header .content {
 }
 section.header .container .logo {
   max-width: 100px;
-  margin-left: -2em;
-  padding-right: 1em;
+  margin-right: 10px;
+  border-radius: 100%;
 }
 section.header .name {
   padding-top: 20px;
