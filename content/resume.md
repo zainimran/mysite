@@ -118,49 +118,15 @@ Exchange Semester
 
 ### Product Management Tools
 
-* Google Sheets
-
-* Google Analytics
-
-* Google Data Studio
-
-* OneSignal
-
-* Asana
-
-* Jira
-
-* SQL
-
-* Balsamiq
-
-* Proto.io
-
-* Marvel App
+* Google Sheets, Google Analytics, Google Data Studio, OneSignal, Asana, Jira, SQL, Balsamiq, Proto.io, Marvel App
 
 ### Web Development Languages/Frameworks/Tools
 
-* HTML + CSS
-
-* JavaScript + JQuery
-
-* NodeJS
-
-* Python
-
-* Google App Engine
-
-* Git
-
-* Postman
+* HTML/CSS, JavaScript/JQuery, NodeJS, Python, Google App Engine, Git, Postman
 
 ### Data Science Tools
 
-* MATLAB
-
-* Tableau
-
-* D3.js
+* MATLAB, Tableau, D3.js
 
 ------
 
