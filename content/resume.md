@@ -9,28 +9,28 @@ title = "Resume"
 [Projects](#projects) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Education](#education) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Skills](#skills) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- [Volunteering](#volunteers) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+[Volunteering](#volunteers) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Honors & Awards](#honors)
 
 ## Profile {#profile}
 
-An experienced developer who has skills in leading-edge web technologies and a knack for learning new frameworks.
+An experienced Web Developer and Product Manager who is always on the lookout for innovative projects to work on
 
 ------
 
 ## Experience {#experience}
 
+### Product Executive, PakWheels.com
+
+Fall 2018
+
+* Responsible for the **Used Car Classifieds, Dealer Partnerships, Auto Magazine and Forum business units**. Identified areas for improvement and new market opportunities by analyzing competitors and similar industries. **Saved the company money** by cutting down unnecessary monthly expenses. Made the product **operations leaner**. **Introduced improvements to existing user flows** on the PakWheels.com platform. Gave **fresh ideas for the product roadmap** and outlined the associated KPIs. Interacted with design, development, marketing, sales, business, finance, SEO and content teams **to roll out new features** across the organization in weekly Agile sprints.
+
 ### Software Engineer, Educative (TechStars Seattle Class of 2018)
 
-Present
+Spring 2018
 
 * Developed features for an **interactive learning platform** for software developers using **Python, JavaScript, React, Redux and Google Cloud**. Wrote test cases **to ensure an optimum working** of the backend after every feature implementation. Implementing the features **drove up user retention and new user growth** on the platform.
-
-<!-- #### Cultural Ambassador of Pakistan to the US, U.S. Department of State
-
-*2016*
-
-* Represented Pakistan as a cultural ambassador in the U.S. by **organizing** talks, food fairs and table discussions **to initiate and promote dialogue** between American and Pakistani youth and communities and **to resolve misunderstandings**. American college students and community members I had contact with said their **perceptions about Pakistan and its people have changed** for good. -->
 
 ### Software Engineering Intern, EdJunction
 
@@ -38,11 +38,17 @@ Summer 15 & 16
 
 * Ported EdJunction’s PhoneGap mobile app to a NodeJS web application which is **used by schools** as a monitoring portal for students’ progress. Gave a **visual uplift** to the interface of the web application by **implementing** the popular Angular Material library and added **interactive gestures** to the app by applying methods from the jQuery library.
 
+### Cultural Ambassador of Pakistan to the US, U.S. Department of State
+
+Fall 2016
+
+* Represented Pakistan as a cultural ambassador in the U.S. by **organizing** talks, food fairs and table discussions **to initiate and promote dialogue** between American and Pakistani youth and communities and **to resolve misunderstandings**. American college students and community members I had contact with said their **perceptions about Pakistan and its people have changed** for good.
+
 ------
 
 ## Projects {#projects}
 
-[Click here for my Portfolio](https://www.dropbox.com/sh/qd6aojm90b45fpp/AABXShUUFqInh7PxwYaVvTuBa?dl=0)
+[Click here for my Portfolio- last updated: 01/05/18 (outdated)](https://www.dropbox.com/sh/qd6aojm90b45fpp/AABXShUUFqInh7PxwYaVvTuBa?dl=0)
 
 ### Social Search – Senior Year Project
 
@@ -74,18 +80,17 @@ Summer 15 & 16
 
 * **Developed a complete Web Application** incorporating feeds for Events, Lost & Found and Book Exchange as a replacement for campus noticeboards using the MEAN stack.
 
-<!-- #### Website for LUMS Media Arts Society
+### Website for LUMS Media Arts Society
 
-*Summer 2016*
+Summer 2016
 
 * Singlehandedly built and launched the website in record time. Was praised for modern design and innovative features.
 
-#### Official webpage for FiLUMS (LUMS International Film Festival)
+### Official webpage for FiLUMS (LUMS International Film Festival)
 
-*Fall 2015*
+Fall 2015
 
-* Designed, developed, launched and managed the official website for the annual film festival.
-* Established a system for receiving and processing participants’ registration and film submissions on the cloud. -->
+* Designed, developed, launched and managed the official website for the annual film festival. Established a system for receiving and processing participants’ registration and film submissions on the cloud.
 
 ------
 
@@ -111,7 +116,29 @@ Exchange Semester
 
 ## Skills {#skills}
 
-### Web Development
+### Product Management Tools
+
+* Google Sheets
+
+* Google Analytics
+
+* Google Data Studio
+
+* OneSignal
+
+* Asana
+
+* Jira
+
+* SQL
+
+* Balsamiq
+
+* Proto.io
+
+* Marvel App
+
+### Web Development Languages/Frameworks/Tools
 
 * HTML + CSS
 
@@ -123,23 +150,11 @@ Exchange Semester
 
 * Google App Engine
 
-### Software Engineering
-
 * Git
-
-* Jira
-
-* Selenium
 
 * Postman
 
-### UI/UX Design
-
-* Proto.io
-
-* Marvel App
-
-### Data Science
+### Data Science Tools
 
 * MATLAB
 
@@ -149,48 +164,48 @@ Exchange Semester
 
 ------
 
-<!-- ### Volunteering {#volunteers}
+## Volunteering {#volunteers}
 
-#### Founder, Girls Without Barriers
+### Founder, Girls Without Barriers
 
-*Present*
+Present
 
 * A grassroots movement to impart modern digital literacy and coding skills to the young, high school going women in Pakistan to reduce gender disparity in technology and provide greater women empowerment.
 
-##### Certified Smile Maker, Project Smile
+### Certified Smile Maker, Project Smile
 
-*Summer 2017*
+Summer 2017
 
 * Teaching coding and game-making in Scratch to underprivileged children from the conflict-ridden province of Balochistan.
 
-#### Teacher Assistant, Jefferson Elementary School, North Dakota
+### Teacher Assistant, Jefferson Elementary School, North Dakota
 
-*Fall 2016*
+Fall 2016
 
-#### Mentor, SOS Children Village Pakistan
+### Mentor, SOS Children Village Pakistan
 
-*Summer 2013*
+Summer 2013
 
-#### Teacher Assistant, Special Education and Training Center
+### Teacher Assistant, Special Education and Training Center
 
-*Spring 2013*
+Spring 2013
 
-------- -->
+------
 
 ## Honors & Awards {#honors}
 
-* Dean’s Honor List for 6 semesters to date (2014-18)
+* **Graduation with Distinction** Lahore University of Management Sciences (2014-18)
 
-* Runners Up L'Oréal Brandstorm 2018 National Finals (2018)
+* **National Finalist** L'Oréal Brandstorm 2018
 
-* Batch Topper A-Levels Lahore Grammar School Johar Town (2012-14)
+* **Top in Class** A-Levels Lahore Grammar School Johar Town (2012-14)
 
-* Gold Medalist O-Levels Beaconhouse Garden Town Campus (2009-12)
+* **Gold Medalist** O-Levels Beaconhouse Garden Town Campus (2009-12)
 
-* Top 20 Young Physicists Higher Education Commission Pakistan (2013-14)
+* **Top 20 Young Physicists** Higher Education Commission Pakistan (2013-14)
 
-* Global Table Ambassador Dickinson State University (2016)
+* **Global Table Ambassador** Dickinson State University (2016)
 
-* Recipient Alumni Small Grants Global UGRAD (2017-2018)
+* **Recipient Alumni Small Grants** Global UGRAD (2017-2018)
 
-* Runners Up Facebook Bug Bash Bramerz (2017)
+* **Runners Up Facebook Bug Bash** Bramerz (2017)
