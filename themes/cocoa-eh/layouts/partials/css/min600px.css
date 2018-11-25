@@ -23,7 +23,7 @@ section.header .container {
 justify-content: flex-start;
 }
 section.header .container .logo {
-margin: 0;
+margin-right: 10px;
 }
 section.header-home .container .logo {
 max-width: 180px;
