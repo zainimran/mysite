@@ -50,17 +50,31 @@ Fall 2016
 
 [Click here for my Portfolio- last updated: 01/05/18 (outdated)](https://www.dropbox.com/sh/qd6aojm90b45fpp/AABXShUUFqInh7PxwYaVvTuBa?dl=0)
 
+### Synthia – L'Oréal Brandstorm
+
+2018
+
+* **Developed a prototype** for an app interface **helping hair stylists of the future diagnose their clients' hair profiles, suggest optimum hair treatments** and preview hair color mixing. Companion app for controlling Syborg- a state of the art artificial wig representing human hair in texture and capable of electro thermo morphing and color shifting.
+
+![Synthia Interface](/loreal.png)
+
 ### Social Search – Senior Year Project
 
 2017-18
 
 * **Analyzed data** collected from Facebook Graph API and Twitter Search API by importing to Tableau. **Developed a tool** by integrating the APIs and replicating the Tableau model into a WebApp using D3JS and ReactJS. Current visualization tools such as Tableau have high licensing costs and our alternative is a **web-based, low-cost tool** specifically built for social media data.
 
+![Line Chart](/ss-line.png)
+![Map Chart](/ss-map.png)
+![Bar Chart](/ss-bar.png)
+
 ### Femme – Human Computer Interface Project
 
 2017
 
 * **Designed UX and UI** on Proto.io for a women-centered social platform providing a support network to help fight against domestic abuse and involuntary isolation. Tested the design with the target audience (housewives and working women) and **most of them welcomed the idea**.
+
+![Femme Interface](/femme.png)
 
 ### Privacy Policy Project –Summer Research Project
 
